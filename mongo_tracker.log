@@ -1,0 +1,60 @@
+2023-01-27 07:22:20,005 ERROR establish connection errorThe empty string is not valid username.
+2023-01-27 08:04:07,602 ERROR establish connection error 'MongoCrud' object has no attribute 'db'
+2023-01-27 08:05:02,543 ERROR establish connection error 'MongoCrud' object has no attribute 'db'
+2023-01-27 08:06:18,927 ERROR establish connection error 'MongoCrud' object has no attribute 'db'
+2023-01-27 08:06:18,928 ERROR Error found in insertion block is 'MongoCrud' object has no attribute 'col_data'
+2023-01-27 08:08:35,094 ERROR Error found in insertion block is documents must be a non-empty list
+2023-01-27 08:21:42,418 ERROR Error found in insertion block is documents must be a non-empty list
+2023-01-27 08:23:50,712 ERROR Error found in insertion block is documents must be a non-empty list
+2023-01-27 08:25:15,580 ERROR Error found in insertion block is documents must be a non-empty list
+2023-01-27 08:25:31,817 ERROR Error found in insertion block is documents must be a non-empty list
+2023-01-27 08:30:21,527 ERROR establish connection error 'MongoCrud' object has no attribute 'db'
+2023-01-27 08:30:21,527 ERROR Error found in insertion block is 'MongoCrud' object has no attribute 'col_data'
+2023-01-27 08:30:33,149 ERROR establish connection error 'MongoCrud' object has no attribute 'db'
+2023-01-27 08:30:33,149 ERROR Error found in insertion block is 'MongoCrud' object has no attribute 'col_data'
+2023-01-27 08:30:58,715 ERROR establish connection error 'MongoCrud' object has no attribute 'db'
+2023-01-27 08:30:58,715 ERROR Error found in insertion block is 'MongoCrud' object has no attribute 'col_data'
+2023-01-27 08:31:17,013 ERROR establish connection error 'MongoCrud' object has no attribute 'db'
+2023-01-27 08:31:17,013 ERROR Error found in insertion block is 'MongoCrud' object has no attribute 'col_data'
+2023-01-27 08:32:42,938 ERROR establish connection error 'MongoCrud' object has no attribute 'db'
+2023-01-27 08:32:42,939 ERROR Error found in insertion block is 'MongoCrud' object has no attribute 'col_data'
+2023-01-27 09:42:20,662 ERROR establish connection error ac-3fjicvu-shard-00-00.8icxifn.mongodb.net:27017: connection closed,ac-3fjicvu-shard-00-01.8icxifn.mongodb.net:27017: connection closed,ac-3fjicvu-shard-00-02.8icxifn.mongodb.net:27017: connection closed, Timeout: 30s, Topology Description: <TopologyDescription id: 63d34f062c816403f3c2bf8f, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-3fjicvu-shard-00-00.8icxifn.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-3fjicvu-shard-00-00.8icxifn.mongodb.net:27017: connection closed')>, <ServerDescription ('ac-3fjicvu-shard-00-01.8icxifn.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-3fjicvu-shard-00-01.8icxifn.mongodb.net:27017: connection closed')>, <ServerDescription ('ac-3fjicvu-shard-00-02.8icxifn.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-3fjicvu-shard-00-02.8icxifn.mongodb.net:27017: connection closed')>]>
+2023-01-27 09:42:20,662 ERROR Error found in insertion block is 'MongoCrud' object has no attribute 'col_data'
+2023-01-27 09:43:38,139 ERROR establish connection error ac-3fjicvu-shard-00-00.8icxifn.mongodb.net:27017: connection closed,ac-3fjicvu-shard-00-02.8icxifn.mongodb.net:27017: connection closed,ac-3fjicvu-shard-00-01.8icxifn.mongodb.net:27017: connection closed, Timeout: 30s, Topology Description: <TopologyDescription id: 63d34f5364a4aa438990dbde, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-3fjicvu-shard-00-00.8icxifn.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-3fjicvu-shard-00-00.8icxifn.mongodb.net:27017: connection closed')>, <ServerDescription ('ac-3fjicvu-shard-00-01.8icxifn.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-3fjicvu-shard-00-01.8icxifn.mongodb.net:27017: connection closed')>, <ServerDescription ('ac-3fjicvu-shard-00-02.8icxifn.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-3fjicvu-shard-00-02.8icxifn.mongodb.net:27017: connection closed')>]>
+2023-01-27 09:43:38,139 ERROR Error found in insertion block is 'MongoCrud' object has no attribute 'col_data'
+2023-01-27 09:44:59,472 ERROR establish connection error ac-3fjicvu-shard-00-02.8icxifn.mongodb.net:27017: connection closed,ac-3fjicvu-shard-00-00.8icxifn.mongodb.net:27017: connection closed,ac-3fjicvu-shard-00-01.8icxifn.mongodb.net:27017: connection closed, Timeout: 30s, Topology Description: <TopologyDescription id: 63d34fa57d35cbc71cb5186a, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-3fjicvu-shard-00-00.8icxifn.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-3fjicvu-shard-00-00.8icxifn.mongodb.net:27017: connection closed')>, <ServerDescription ('ac-3fjicvu-shard-00-01.8icxifn.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-3fjicvu-shard-00-01.8icxifn.mongodb.net:27017: connection closed')>, <ServerDescription ('ac-3fjicvu-shard-00-02.8icxifn.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-3fjicvu-shard-00-02.8icxifn.mongodb.net:27017: connection closed')>]>
+2023-01-27 09:44:59,472 ERROR Error found in insertion block is 'MongoCrud' object has no attribute 'col_data'
+2023-01-27 09:47:43,299 ERROR establish connection error ac-3fjicvu-shard-00-02.8icxifn.mongodb.net:27017: connection closed,ac-3fjicvu-shard-00-01.8icxifn.mongodb.net:27017: connection closed,ac-3fjicvu-shard-00-00.8icxifn.mongodb.net:27017: connection closed, Timeout: 30s, Topology Description: <TopologyDescription id: 63d350487452bd6b212023d4, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-3fjicvu-shard-00-00.8icxifn.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-3fjicvu-shard-00-00.8icxifn.mongodb.net:27017: connection closed')>, <ServerDescription ('ac-3fjicvu-shard-00-01.8icxifn.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-3fjicvu-shard-00-01.8icxifn.mongodb.net:27017: connection closed')>, <ServerDescription ('ac-3fjicvu-shard-00-02.8icxifn.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-3fjicvu-shard-00-02.8icxifn.mongodb.net:27017: connection closed')>]>
+2023-01-27 09:47:43,299 ERROR Error found in insertion block is 'MongoCrud' object has no attribute 'col_data'
+2023-01-27 09:49:39,661 ERROR establish connection error ac-3fjicvu-shard-00-02.8icxifn.mongodb.net:27017: connection closed,ac-3fjicvu-shard-00-01.8icxifn.mongodb.net:27017: connection closed,ac-3fjicvu-shard-00-00.8icxifn.mongodb.net:27017: connection closed, Timeout: 30s, Topology Description: <TopologyDescription id: 63d350bdd7a58e6082f51f6c, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-3fjicvu-shard-00-00.8icxifn.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-3fjicvu-shard-00-00.8icxifn.mongodb.net:27017: connection closed')>, <ServerDescription ('ac-3fjicvu-shard-00-01.8icxifn.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-3fjicvu-shard-00-01.8icxifn.mongodb.net:27017: connection closed')>, <ServerDescription ('ac-3fjicvu-shard-00-02.8icxifn.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-3fjicvu-shard-00-02.8icxifn.mongodb.net:27017: connection closed')>]>
+2023-01-27 09:50:59,022 ERROR establish connection error ac-3fjicvu-shard-00-00.8icxifn.mongodb.net:27017: connection closed,ac-3fjicvu-shard-00-01.8icxifn.mongodb.net:27017: connection closed,ac-3fjicvu-shard-00-02.8icxifn.mongodb.net:27017: connection closed, Timeout: 30s, Topology Description: <TopologyDescription id: 63d3510d9fa6bddb05b4e8ea, topology_type: ReplicaSetNoPrimary, servers: [<ServerDescription ('ac-3fjicvu-shard-00-00.8icxifn.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-3fjicvu-shard-00-00.8icxifn.mongodb.net:27017: connection closed')>, <ServerDescription ('ac-3fjicvu-shard-00-01.8icxifn.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-3fjicvu-shard-00-01.8icxifn.mongodb.net:27017: connection closed')>, <ServerDescription ('ac-3fjicvu-shard-00-02.8icxifn.mongodb.net', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('ac-3fjicvu-shard-00-02.8icxifn.mongodb.net:27017: connection closed')>]>
+2023-01-27 09:54:51,314 ERROR establish connection error 'MongoCrud' object has no attribute 'db'
+2023-01-27 09:55:00,765 ERROR establish connection error 'MongoCrud' object has no attribute 'db'
+2023-01-27 09:55:17,186 ERROR establish connection error 'MongoCrud' object has no attribute 'db'
+2023-01-27 09:55:17,187 ERROR Error found in insertion block is 'MongoCrud' object has no attribute 'col_data'
+2023-01-27 09:55:17,187 ERROR Error found in insertion block is 'MongoCrud' object has no attribute 'col_data'
+2023-01-27 09:56:42,278 ERROR establish connection error 'MongoCrud' object has no attribute 'db'
+2023-01-27 09:56:42,278 ERROR Error found in insertion block is 'MongoCrud' object has no attribute 'col_data'
+2023-01-27 09:56:42,279 ERROR Error found in insertion block is 'MongoCrud' object has no attribute 'col_data'
+2023-01-27 09:56:46,085 ERROR establish connection error 'MongoCrud' object has no attribute 'db'
+2023-01-27 09:56:46,086 ERROR Error found in insertion block is 'MongoCrud' object has no attribute 'col_data'
+2023-01-27 09:56:46,086 ERROR Error found in insertion block is 'MongoCrud' object has no attribute 'col_data'
+2023-01-27 09:57:07,142 ERROR establish connection error 'MongoCrud' object has no attribute 'db'
+2023-01-27 09:57:31,562 ERROR establish connection error 'MongoCrud' object has no attribute 'db'
+2023-01-27 09:59:01,559 ERROR establish connection error 'MongoCrud' object has no attribute 'db'
+2023-01-27 10:21:08,382 ERROR establish connection error 'CrudOperation' object has no attribute 'db'
+2023-01-27 10:22:01,643 ERROR establish connection error 'CrudOperation' object has no attribute 'db'
+2023-01-27 10:24:46,315 ERROR establish connection error 'CrudOperation' object has no attribute 'db'
+2023-01-27 10:24:46,315 ERROR Error found in insertion block is 'CrudOperation' object has no attribute 'col_data'
+2023-01-27 10:24:46,315 ERROR Error found in insertion block is 'CrudOperation' object has no attribute 'col_data'
+2023-01-27 10:25:24,342 ERROR establish connection error 'CrudOperation' object has no attribute 'db'
+2023-01-27 10:26:24,088 ERROR establish connection error 'CrudOperation' object has no attribute 'db'
+2023-01-27 10:33:17,325 ERROR Database error is  'CrudOperation' object has no attribute 'db'
+2023-01-27 10:33:17,325 ERROR collection error is 'NoneType' object has no attribute 'list_collection_names'
+2023-01-27 10:33:17,325 ERROR Error found in insertion block is 'NoneType' object has no attribute 'insert_one'
+2023-01-27 10:33:17,325 ERROR Error found in insertion block is 'NoneType' object has no attribute 'insert_many'
+2023-01-27 10:34:13,021 ERROR Database error is  'CrudOperation' object has no attribute 'db'
+2023-01-27 10:34:13,021 ERROR collection error is 'NoneType' object has no attribute 'list_collection_names'
+2023-01-27 10:34:13,022 ERROR Error found in insertion block is 'NoneType' object has no attribute 'insert_one'
+2023-01-27 10:34:13,022 ERROR Error found in insertion block is 'NoneType' object has no attribute 'insert_many'
+2023-01-27 10:43:49,243 ERROR Error found in insertion block is {'name': 'pranava prasath', 'age': 26} is not a valid request
